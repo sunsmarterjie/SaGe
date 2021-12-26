@@ -4,4 +4,4 @@
 The code builds upon [OpenSelfSup](https://github.com/open-mmlab/OpenSelfSup).
 
 
-The code is being refined!
+Detail introduction about SaGe will come soon!
