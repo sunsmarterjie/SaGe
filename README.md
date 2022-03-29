@@ -3,6 +3,9 @@
 
 The code builds upon [OpenSelfSup](https://github.com/open-mmlab/OpenSelfSup).
 
+![pipeline of SAGE!](imgs/pipeline.png)
+
+
 <p align="center">
   <img src="img/pipeline.png" alt="DA2S" width="48%">
 </p>
