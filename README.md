@@ -4,7 +4,7 @@
 The code builds upon [OpenSelfSup](https://github.com/open-mmlab/OpenSelfSup).
 
 <p align="center">
-  <img src="img/pipeline.png" alt="DA2S" width="75%">
+  <img src="img/pipeline.png" alt="DA2S" width="70%">
 </p>
 <p align="center">
 Figure 1: Pipeline of SAGE.
