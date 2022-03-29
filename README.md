@@ -3,8 +3,12 @@
 
 The code builds upon [OpenSelfSup](https://github.com/open-mmlab/OpenSelfSup).
 
-![pipeline of SAGE!](img/pipeline.png)
-
+<p align="center">
+  <img src="img/pipeline.png" alt="DA2S" width="60%">
+</p>
+<p align="center">
+Figure 1: Pipeline of SAGE.
+</p>
 
 
 Detailed introduction of SaGe will come soon!
