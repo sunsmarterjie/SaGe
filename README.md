@@ -11,4 +11,12 @@ Figure 1: Pipeline of SAGE.
 </p>
 
 
+<p align="center">
+  <img src="img/visual.png" alt="DA2S" width="70%">
+</p>
+<p align="center">
+Figure 2: Visualization examples.
+</p>
+
+
 Detailed introduction of SaGe will come soon!
