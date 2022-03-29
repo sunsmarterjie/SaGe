@@ -7,7 +7,7 @@ The code builds upon [OpenSelfSup](https://github.com/open-mmlab/OpenSelfSup).
   <img src="img/pipeline.png" alt="DA2S" width="48%">
 </p>
 <p align="center">
-Figure 1: Pipeline of DA2S
+Figure 1: Pipeline of SAGE.
 </p>
 
 
