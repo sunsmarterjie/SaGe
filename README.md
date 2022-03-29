@@ -3,7 +3,7 @@
 
 The code builds upon [OpenSelfSup](https://github.com/open-mmlab/OpenSelfSup).
 
-![pipeline of SAGE!](imgs/pipeline.png)
+![pipeline of SAGE!](img/pipeline.png)
 
 
 <p align="center">
