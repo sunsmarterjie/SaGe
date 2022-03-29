@@ -1,5 +1,5 @@
 # SaGe
-**Semantic-Aware Generation for Self-Supervised Visual Representation Learning ([SaGe](https://arxiv.org/pdf/2111.13163.pdf))**
+**Semantic-Aware Generation for Self-Supervised Visual Representation Learning ([SAGE](https://arxiv.org/pdf/2111.13163.pdf))**
 
 The code builds upon [OpenSelfSup](https://github.com/open-mmlab/OpenSelfSup). Installation and preparation follow that repo.
 
